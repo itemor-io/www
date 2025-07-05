@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://itemor.io/docs/index.html</loc>
+         <loc>https://itemor.io/docs/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/api.html</loc>
+         <loc>https://itemor.io/docs/api/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/architecture.html</loc>
+         <loc>https://itemor.io/docs/architecture/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/cli.html</loc>
+         <loc>https://itemor.io/docs/cli/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/concept.html</loc>
+         <loc>https://itemor.io/docs/concept/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/contributing.html</loc>
+         <loc>https://itemor.io/docs/contributing/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/docker.html</loc>
+         <loc>https://itemor.io/docs/docker/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/domain-model.html</loc>
+         <loc>https://itemor.io/docs/domain-model/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/mobile.html</loc>
+         <loc>https://itemor.io/docs/mobile/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/roadmap.html</loc>
+         <loc>https://itemor.io/docs/roadmap/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
     <url>
-         <loc>https://itemor.io/docs/use-cases.html</loc>
+         <loc>https://itemor.io/docs/use-cases/</loc>
          <lastmod>2025-07-05</lastmod>
     </url>
 </urlset>
